@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Anishsajnani
-- 👀 I’m interested in aritifical intelligence
-- 🌱 I’m currently learning data science 
-- 💞️ I’m looking to collaborate on artifical intelligence projects
-- 📫 How to reach me 
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+👋 Hi, I’m @Anishsajnani
+I’m interested in aritifical intelligence
+I’m a data scientist
+I’m looking to collaborate on artifical intelligence projects
 
 <!---
 Anishsajnani/Anishsajnani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
